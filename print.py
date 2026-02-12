@@ -1,4 +1,3 @@
-print("hello welcome to coding")
-
-
-
+print("hi")
+print(1)
+print("hi",1)
